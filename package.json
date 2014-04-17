@@ -1,0 +1,7 @@
+{
+  "name": "ripplejs-array-observer",
+  "version": "0.3.0",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  }
+}

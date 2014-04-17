@@ -1,4 +1,4 @@
-var emitter = require('emitter');
+var emitter = require('component-emitter');
 var slice = Array.prototype.slice;
 
 module.exports = function(arr) {
